@@ -1,0 +1,1 @@
+explorer "http://127.0.0.1:8080/Flight/api/v1.0/query?flightno=MU2254&depairport=YNZ&arrairport=XIY&date=2016-4-4"
